@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Barkha Yadav</h1>
-<h3 align="center">An aspiring software developer.</h3>
 
 - 🔭 I’m currently working on **MERN Stack**
 
