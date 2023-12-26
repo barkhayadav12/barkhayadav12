@@ -10,9 +10,9 @@
     Languages: C++,C,JavaScript,Python
   </li>
   <li>
-    Web Technologies:Html,Css,JavaScript,React.js,Express.js,Node.js
+    Web Technologies: Html,Css,JavaScript,React.js,Express.js,Node.js
   </li>
   <li>
-    Database Techonologies:MySQL,MongoDB
+    Database Techonologies: MySQL,MongoDB
   </li>
 </ul>
