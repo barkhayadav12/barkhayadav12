@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-<h3 align="left">	&#128279; &#128640; My skills include</h3>
+<h3 align="left">	&#128279; My skills include</h3>
 <ul>
   <li>
     Languages: C++,C,JavaScript,Python
