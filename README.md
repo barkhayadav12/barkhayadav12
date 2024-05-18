@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 <h3 align="left"> My skills include</h3>
 <ul>
