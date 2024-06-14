@@ -4,6 +4,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: I like coding, watching anime, reading manga and gaming.
 <br>
+
 ### :gear: My skills include:
 
 - **Languages**: `C++`,`C`, `JavaScript`, `Python`, `Java`
@@ -14,7 +15,10 @@
 
 <br>
 
+
 📫 **How to Reach me**: 
+ 
+
  
 <a href="www.linkedin.com/in/barkhayadav">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
