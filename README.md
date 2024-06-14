@@ -1,12 +1,10 @@
 ## Hi 👋, I'm Barkha Yadav <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
-
 - 🔭 I’m currently working on MERN Stack
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: I like coding, watching anime, reading manga and gaming.
 
 <br>
-
 
 ### :gear: My skills include:
 
