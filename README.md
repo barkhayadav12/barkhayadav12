@@ -15,12 +15,9 @@
 
 <br>
 
-
 📫 **How to Reach me**: 
  
-
- 
-<a href="www.linkedin.com/in/barkhayadav">
+<a href="https://www.linkedin.com/in/barkha-yadav-727472212/?originalSubdomain=in">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
 </a>
   <a href="https://twitter.com/barkhayadav125">
