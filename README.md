@@ -13,6 +13,7 @@
 - **Database Technologies**: `MySQL` , `MongoDB`
 
 <br>
+
 📫 **How to Reach me**: 
  
 <a href="www.linkedin.com/in/barkhayadav">
