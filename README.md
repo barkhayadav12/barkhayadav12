@@ -3,23 +3,18 @@
 - 🔭 I’m currently working on MERN Stack
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: I like coding, watching anime, reading manga and gaming.
-
 <br>
-
 ### :gear: My skills include:
 
 - **Languages**: `C++`,`C`, `JavaScript`, `Python`, `Java`
 
-- **Web Technologies**: `Html`,`Css`, `javaScript`,`react`, `express`,`node`
+- **Web Technologies**: `Html`,`Css`, `javaScript`,`react`, `express`,`node`,`ejs`
 
 - **Database Technologies**: `MySQL` , `MongoDB`
 
 <br>
-
-
 📫 **How to Reach me**: 
  
-
 <a href="www.linkedin.com/in/barkhayadav">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
 </a>
