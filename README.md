@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on MERN Stack
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: I like coding, watching anime, reading manga and gaming.
-<br>
 
 ### :gear: My skills include:
 
