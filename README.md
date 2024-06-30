@@ -1,8 +1,9 @@
-## Hi 👋, I'm Barkha Yadav <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
+# Hi 👋, I'm Barkha Yadav <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
 - 🔭 I’m currently working on MERN Stack
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: I like coding, watching anime, reading manga and gaming.
+
 
 ### :gear: My skills include:
 
@@ -11,6 +12,7 @@
 - **Web Technologies**: `Html`,`Css`, `javaScript`,`react`, `express`,`node`,`ejs`
 
 - **Database Technologies**: `MySQL` , `MongoDB`
+
 
 📫 **How to Reach me**: 
  
