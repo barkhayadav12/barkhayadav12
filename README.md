@@ -13,8 +13,6 @@
 
 - **Database Technologies**: `MySQL` , `MongoDB`
 
-<br>
-
 📫 **How to Reach me**: 
  
 <a href="https://www.linkedin.com/in/barkha-yadav-727472212/?originalSubdomain=in">
@@ -26,7 +24,4 @@
 <a href="mailto:barkhayadav125@gmail.com">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
 </a></br>
-<br>
-<br>
-<br>
-<br>
+
